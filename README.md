@@ -28,4 +28,4 @@ Mysql of Iranian provinces and cities
 | name          | VARCHAR(255) NOT NULL                        | Persian city name                |
 | name_en       | VARCHAR(255) NOT NULL                        | English city name                |
 | latitude      | DECIMAL(10,8) NOT NULL                       | City Latitude                    |
-| latitude      | VARCHAR(11,8) NOT NULL                       | City Longitude                   |
+| latitude      | DECIMAL(11,8) NOT NULL                       | City Longitude                   |
