@@ -1,4 +1,4 @@
-# ♥ Iran province city (استان ها و شهرهای ایران)
+# ♥ Mysql database of provinces and cities of Iran (استان ها و شهرهای ایران)
 Mysql of Iranian provinces and cities
 
 ## Data Structure
