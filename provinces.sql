@@ -47,7 +47,7 @@ INSERT INTO `provinces` VALUES ('12', '1', 'خراسان شمالی', 'North Kho
 INSERT INTO `provinces` VALUES ('13', '1', 'خوزستان', 'Khuzestan', '31.43601490', '49.04131200');
 INSERT INTO `provinces` VALUES ('14', '1', 'زنجان', 'Zanjan', '36.50181850', '48.39881860');
 INSERT INTO `provinces` VALUES ('15', '1', 'سمنان', 'Semnan', '35.22555850', '54.43421380');
-INSERT INTO `provinces` VALUES ('16', '1', 'سیستان و بلوچستان', 'Sistan and Baluchestan ', '27.52999060', '60.58206760');
+INSERT INTO `provinces` VALUES ('16', '1', 'سیستان و بلوچستان', 'Sistan and Baluchestan', '27.52999060', '60.58206760');
 INSERT INTO `provinces` VALUES ('17', '1', 'فارس', 'Fars', '29.10438130', '53.04589300');
 INSERT INTO `provinces` VALUES ('18', '1', 'قزوین', 'Qazvin', '36.08813170', '49.85472660');
 INSERT INTO `provinces` VALUES ('19', '1', 'قم', 'Qom', '34.63994430', '50.87594190');
